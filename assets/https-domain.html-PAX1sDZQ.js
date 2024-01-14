@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-661eeb1a","path":"/toBeBetterJavaer/szjy/https-domain.html","title":"给域名配置HTTPS证书","lang":"zh-CN","frontmatter":{"category":["知识库搭建"],"tag":["知识库搭建"],"title":"给域名配置HTTPS证书","shortTitle":"给域名配置HTTPS证书"},"headers":[],"git":{},"filePathRelative":"toBeBetterJavaer/szjy/https-domain.md"}');export{t as data};

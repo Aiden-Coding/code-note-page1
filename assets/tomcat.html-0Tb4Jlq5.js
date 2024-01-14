@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7f9a27c4","path":"/toBeBetterJavaer/springboot/tomcat.html","title":"Spring Boot为什么不需要额外安装Tomcat？","lang":"zh-CN","frontmatter":{"category":["Java企业级开发"],"tag":["Spring Boot"]},"headers":[],"git":{},"filePathRelative":"toBeBetterJavaer/springboot/tomcat.md"}');export{t as data};

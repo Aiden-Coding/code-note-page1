@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-84444d4e","path":"/toBeBetterJavaer/szjy/record-domain.html","title":"备案域名","lang":"zh-CN","frontmatter":{"category":["知识库搭建"],"tag":["知识库搭建"],"title":"备案域名","shortTitle":"备案域名"},"headers":[],"git":{},"filePathRelative":"toBeBetterJavaer/szjy/record-domain.md"}');export{t as data};

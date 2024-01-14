@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5ae19954","path":"/toBeBetterJavaer/pdf/","title":"📚PDF干货笔记，附下载地址","lang":"zh-CN","frontmatter":{"title":"📚PDF干货笔记，附下载地址","shortTitle":"PDF干货笔记","category":["PDF"],"tag":["PDF"]},"headers":[],"git":{},"filePathRelative":"toBeBetterJavaer/pdf/readme.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-39daccf5","path":"/toBeBetterJavaer/szjy/install-baota-mianban.html","title":"安装宝塔面板","lang":"zh-CN","frontmatter":{"category":["知识库搭建"],"tag":["知识库搭建"],"title":"安装宝塔面板","shortTitle":"安装宝塔面板"},"headers":[],"git":{},"filePathRelative":"toBeBetterJavaer/szjy/install-baota-mianban.md"}');export{t as data};

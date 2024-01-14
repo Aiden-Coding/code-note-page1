@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-29c9046c","path":"/toBeBetterJavaer/kaiyuan/","title":"Java 开源项目精选","lang":"zh-CN","frontmatter":{"title":"Java 开源项目精选"},"headers":[],"git":{},"filePathRelative":"toBeBetterJavaer/kaiyuan/readme.md"}');export{a as data};
